@@ -1,4 +1,4 @@
-# Ansible Role for Disk Usage Analyzer
+# Ansible Role for Disk Usage Analyzer with Flatpak
 
 ## 13.6.0 - TBC
 
